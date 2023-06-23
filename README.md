@@ -33,3 +33,4 @@ Should you encounter any issues while using this application, please open an iss
 
 ## Contribution Guidelines
 We welcome contributions from the community. If you wish to contribute to the codebase, please check out our Contribution Guidelines before making a pull request.
+# 11miniature-eureka
